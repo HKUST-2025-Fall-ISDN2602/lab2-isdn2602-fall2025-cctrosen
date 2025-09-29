@@ -4,7 +4,7 @@
 #define trigPin 39
 #define echoPin 38
 
-/*define sound speed in m*/
+/*define sound speed in m*//
 #define SOUND_SPEED 340
 
 /*Define the varibles required*/
